@@ -9,6 +9,7 @@ int main(){
     char Thin = 'A';
 
     printf ("%d\n", saging);
+    printf ("%d\n", papaya);
     printf ("%f\n", mangga);
     printf ("%c\n", kean);
     printf ("%c\n", Thin);
